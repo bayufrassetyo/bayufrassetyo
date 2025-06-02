@@ -8,7 +8,7 @@ Ini adalah proyek pertama dalam klasifikasi data untuk memenuhi submission Dicod
 
 
 
-![Gambar Ilustrasi](https://drive.google.com/uc?export=view&id=1iEly0sw8Pp6lG16uJ-sK1c9P-i0OMm1_)
+![Gambar Ilustrasi](https://github.com/bayufrassetyo/bayufrassetyo/blob/main/Image/Image/deteksi%20dini.jpeg?raw=true)
 
 ## **Domain Proyek**
 
@@ -38,7 +38,7 @@ Oleh karena itu, diperlukan sebuah sistem pendukung keputusan berbasis machine l
 
 
 
-![Gambar Ilustrasi](https://drive.google.com/uc?export=view&id=1qtKx2WhnvBBJIRddzVC2MiGeMkkYcyV-)
+![Gambar Ilustrasi](https://github.com/bayufrassetyo/bayufrassetyo/blob/main/Image/Image/benign-and-malignant-tumor-1024x683-1.jpg?raw=true)
 
 
 
@@ -370,15 +370,15 @@ Menampilkan distribusi fitur seperti radius\_mean, texture\_mean, dan area\_mean
 
 
 
-![Histogram radius mean](https://drive.google.com/uc?export=view&id=17JW_uaJrkXpZwpIvc5R2BHECf_gAOFgy)
+![Histogram radius mean](https://github.com/bayufrassetyo/bayufrassetyo/blob/main/Image/Image/EDA_Histogram_radius_mean%20(1).png?raw=true)
 
 
 
-![Histogram texture mean](https://drive.google.com/uc?export=view&id=1U2arFsLvg9hZZ9l-HlUPh7je1Ww5P4rW)
+![Histogram texture mean](https://github.com/bayufrassetyo/bayufrassetyo/blob/main/Image/Image/EDA_Histogram_texture_mean%20(1).png?raw=true)
 
 
 
-![Histogram area mean](https://drive.google.com/uc?export=view&id=1Z4bvt6wKjVRsOk7RgNmudNAEEFsO2azT)
+![Histogram area mean](https://github.com/bayufrassetyo/bayufrassetyo/blob/main/Image/Image/EDA_Histogram_area_mean%20(1).png?raw=true)
 
 
 
@@ -390,7 +390,7 @@ Korelasi antar fitur divisualisasikan menggunakan heatmap (misalnya dengan seabo
 
 
 
-![Heatmap Korelasi](https://drive.google.com/uc?export=view&id=1B66Zq-UxXhLE8XkSZWEjsPPlg0NGHQqq)
+![Heatmap Korelasi](https://github.com/bayufrassetyo/bayufrassetyo/blob/main/Image/Image/Correlation_Heatmap.png?raw=true)
 
 
 
@@ -402,7 +402,7 @@ Visualisasi seperti boxplot radius\_mean terhadap label diagnosis menunjukkan pe
 
 
 
-![Boxplot Diagnosis vs. Fitur](https://drive.google.com/uc?export=view&id=1yuAIBGRi6vPmnnmt7VxEKeQylRRO4DvG)
+![Boxplot Diagnosis vs. Fitur](https://github.com/bayufrassetyo/bayufrassetyo/blob/main/Image/Image/Boxplot_texture_mean%20(1).png?raw=true)
 
 
 
@@ -458,7 +458,7 @@ Sebagian besar algoritma machine learning hanya dapat bekerja dengan data numeri
 
 
 
-![Boxplot Diagnosis vs. Fitur](https://drive.google.com/uc?export=view&id=1Co_qWE1sSj08VL5iMmvNkUJBgpE5VOwE)
+![Boxplot Diagnosis vs. Fitur](https://github.com/bayufrassetyo/bayufrassetyo/blob/main/Image/Image/Distribusi_Diagnosis.png?raw=true)
 
 
 
@@ -490,7 +490,7 @@ Pemisahan ini penting untuk memastikan bahwa proses pelatihan model hanya menggu
 
 
 
-![Boxplot Diagnosis vs. Fitur](https://drive.google.com/uc?export=view&id=1pPXFSWnAKPAr9bqA9OUeBsxBS0xOeOLO)
+![Boxplot Diagnosis vs. Fitur](https://github.com/bayufrassetyo/bayufrassetyo/blob/main/Image/Image/Train_Test_Label_Distribution.png?raw=true)
 
 
 
@@ -872,7 +872,9 @@ Rata-rata harmonis dari precision dan recall. Cocok ketika kedua metrik ini pent
 
 
 
-F1-Score = 2 × Precision × Recall / Precision + Recall = 2 × 0.9756 × 0.9302 / 0.9756 + 0.9302 ≈ 0.9527 ( 95.3% )
+F1-Score = 2 × Precision × Recall / Precision + Recall =
+
+                2 × 0.9756 × 0.9302 / 0.9756 + 0.9302 ≈ 0.9527 (95.3%)
 
 
 
@@ -983,4 +985,3 @@ Artinya:
 
 
 Nilai **akurat dan stabil** ini menunjukkan bahwa Random Forest merupakan model yang andal dan layak digunakan dalam konteks klasifikasi medis seperti ini.
-
