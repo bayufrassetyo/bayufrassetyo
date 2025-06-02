@@ -872,55 +872,7 @@ Rata-rata harmonis dari precision dan recall. Cocok ketika kedua metrik ini pent
 
 
 
-F1-Score
-
-=
-
-2
-
-×
-
-Precision
-
-×
-
-Recall /
-
-Precision
-
-+
-
-Recall
-
-=
-
-2
-
-×
-
-0.9756
-
-×
-
-0.9302 /
-
-0.9756
-
-+
-
-0.9302
-
-≈
-
-0.9527
-
-(
-
-95.3
-
-%
-
-)
+F1-Score = 2 × Precision × Recall / Precision + Recall = 2 × 0.9756 × 0.9302 / 0.9756 + 0.9302 ≈ 0.9527 ( 95.3% )
 
 
 
