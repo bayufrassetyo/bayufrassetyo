@@ -92,7 +92,7 @@ Explore my featured repositories below to see my work in AI-powered tools, data 
 - GitHub: https://github.com/bayufrassetyo
 - Email: bayufrassetyo@gmail.com
 - LinkedIn: https://www.linkedin.com/in/bayu-frassetyo
-- Portfolio Website: add your portfolio URL here
+<!-- Portfolio Website: Coming soon -->
 
 ---
 
