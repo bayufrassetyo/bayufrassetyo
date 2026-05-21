@@ -79,15 +79,11 @@ Collection of data analysis, machine learning, and dashboard projects using Pyth
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayufrassetyo&show_icons=true&theme=tokyonight" alt="Bayu's GitHub Stats" />
-</p>
+I actively build projects around software development, data analytics, AI applications, and aviation workflow automation.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayufrassetyo&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+Explore my featured repositories below to see my work in AI-powered tools, data projects, and web applications.
 
 ---
 
