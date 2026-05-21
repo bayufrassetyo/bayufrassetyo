@@ -51,21 +51,21 @@ I enjoy working at the intersection of aviation, software, data, and artificial 
 
 ## 🌟 Featured Projects
 
-### ✈️ AeroCheck AI
+### ✈️ [AeroCheck AI](https://github.com/bayufrassetyo/aerocheck-ai)
 Gemini-powered aviation maintenance record assistant for analyzing maintenance notes, detecting risks, and generating operational insights.
 
 **Tech Stack:** React, Vite, Tailwind CSS, Gemini API, Docker, Google Cloud Run
 
 ---
 
-### 🤖 Gemini Multi-Agent Productivity Assistant
+### 🤖 [Gemini Multi-Agent Productivity Assistant](https://github.com/bayufrassetyo/gemini-adk-project)
 A multi-agent productivity assistant project built for Google Cloud Gemini APAC Hackathon.
 
 **Tech Stack:** Python, Gemini ADK, SQLite, Docker
 
 ---
 
-### 🧠 AI Study Assistant
+### 🧠 [AI Study Assistant](https://github.com/bayufrassetyo/ai-study-assistant)
 An AI-powered study assistant project designed to support learning workflows and productivity.
 
 **Tech Stack:** Python, AI Integration
