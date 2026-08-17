@@ -23,7 +23,6 @@ My focus is building practical digital solutions that bridge aviation domain exp
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Susunan memanjang horizontal tanpa dipotong perline pendek -->
   <img src="https://skillicons.dev/icons?i=python,js,react,vite,tailwind,docker,gcp,sqlite,git,vscode,postman,supabase,github,vercel,figma&perline=15" />
 </p>
 
@@ -51,7 +50,6 @@ My focus is building practical digital solutions that bridge aviation domain exp
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Profile Summary Badges (100% Anti Error) -->
   <a href="https://github.com/bayufrassetyo">
     <img src="https://img.shields.io/github/followers/bayufrassetyo?label=Followers&style=for-the-badge&color=38bdf8&logo=github" />
   </a>
@@ -63,18 +61,21 @@ My focus is building practical digital solutions that bridge aviation domain exp
 <br/>
 
 <div align="center">
-  <!-- Alternative Contribution Calendar Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayufrassetyo&theme=tokyo-night&hide_border=true" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayufrassetyo&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ---
 
----
-
-### 🤝 Let's Connect & Collaborate
-
 <div align="center">
-  <p>I am actively exploring opportunities in <b>Software Development, Data Analytics, and AI Engineering</b>.</p>
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Handshake.png" width="35"/>
+    Let's Connect & Collaborate
+  </h3>
+  
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"/>
+    <i>Actively exploring opportunities in <b>Software Development, Data Analytics, and AI Engineering</b>.</i>
+  </p>
 
   <p align="center">
     <a href="https://linkedin.com/in/bayu-frassetyo" target="_blank">
@@ -87,10 +88,8 @@ My focus is building practical digital solutions that bridge aviation domain exp
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
-</div>
 
----
+  <br/>
 
-<div align="center">
   <sub>Building practical technology solutions for aviation, data, and AI-driven workflows.</sub>
 </div>
