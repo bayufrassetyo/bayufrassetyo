@@ -66,15 +66,13 @@ My focus is building practical digital solutions that bridge aviation domain exp
 
 ---
 
+---
+
 <div align="center">
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Handshake.png" width="35"/>
-    Let's Connect & Collaborate
-  </h3>
+  <h3>🤝 Let's Connect & Collaborate</h3>
   
   <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20"/>
-    <i>Actively exploring opportunities in <b>Software Development, Data Analytics, and AI Engineering</b>.</i>
+    💡 <i>Actively exploring opportunities in <b>Software Development, Data Analytics, and AI Engineering</b>.</i>
   </p>
 
   <p align="center">
