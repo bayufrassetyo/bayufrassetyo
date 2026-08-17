@@ -43,15 +43,16 @@ My focus is building practical digital solutions that bridge aviation domain exp
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Pastikan USERNAME_GITHUB_KAMU diganti nama akunmu -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bayufrassetyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayufrassetyo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- Alternative Readme Stats (Sangat Stabil) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bayufrassetyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bayufrassetyo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayufrassetyo&theme=tokyonight&hide_border=true" width="97%" />
+  <!-- Alternative Contribution Calendar Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayufrassetyo&theme=tokyo-night&hide_border=true" width="97%" />
 </div>
 
 ---
