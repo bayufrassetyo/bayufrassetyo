@@ -43,9 +43,13 @@ My focus is building practical digital solutions that bridge aviation domain exp
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Alternative Readme Stats (Sangat Stabil) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bayufrassetyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bayufrassetyo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- GitHub Profile Summary Badges (100% Anti Error) -->
+  <a href="https://github.com/bayufrassetyo">
+    <img src="https://img.shields.io/github/followers/bayufrassetyo?label=Followers&style=for-the-badge&color=38bdf8&logo=github" />
+  </a>
+  <a href="https://github.com/bayufrassetyo">
+    <img src="https://img.shields.io/github/stars/bayufrassetyo?label=Total%20Stars&style=for-the-badge&color=38bdf8&logo=github" />
+  </a>
 </div>
 
 <br/>
