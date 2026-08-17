@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner Visual -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Bayu%20Frassetyo%20Wibowo%20👋&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
+  <!-- Header Banner Neon Dark -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:38bdf8&height=220&section=header&text=Hi,%20I'm%20Bayu%20Frassetyo%20Wibowo%20👋&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <!-- Subtitle Typing Animation -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aviation+Technical+Record+%26+PPC+Professional;Building+Software%2C+Data%2C+%26+AI+Solutions;AI+Agent+%26+Automation+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aviation+Technical+Record+%26+PPC+Professional;Building+Software%2C+Data%2C+%26+AI+Solutions;AI+Agent+%26+Automation+Enthusiast" alt="Typing SVG" />
   </p>
 
 </div>
@@ -14,24 +14,17 @@
 
 ### 🚀 About Me
 
-<table border="0">
-  <tr>
-    <td width="65%">
-      I am an <b>aviation professional</b> with experience in Technical Record and Production Planning Control, currently expanding into <b>software development, data analytics, and AI engineering</b>.<br/><br/>
-      My focus is building practical digital solutions that bridge aviation domain expertise with cutting-edge artificial intelligence, data visibility, and workflow automation.
-    </td>
-    <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Space/Rocket.png" alt="Rocket 3D" width="130" />
-    </td>
-  </tr>
-</table>
+I am an **aviation professional** with experience in Technical Record and Production Planning Control, currently expanding into **software development, data analytics, and AI engineering**.
+
+My focus is building practical digital solutions that bridge aviation domain expertise with cutting-edge artificial intelligence, data visibility, and workflow automation.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,vite,tailwind,docker,gcp,sqlite,git,vscode,postman,supabase&perline=6" />
+  <!-- Susunan memanjang horizontal tanpa dipotong perline pendek -->
+  <img src="https://skillicons.dev/icons?i=python,js,react,vite,tailwind,docker,gcp,sqlite,git,vscode,postman,supabase,github,vercel,figma&perline=15" />
 </p>
 
 ---
@@ -47,19 +40,10 @@
 
 ---
 
-### 🎵 What I'm Listening To
-
-<p align="center">
-  <a href="https://spotify-github-readme.vercel.app/api/spotify">
-    <img src="https://spotify-github-readme.vercel.app/api/spotify?theme=dark" alt="Spotify Now Playing" width="400" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
+  <!-- Pastikan USERNAME_GITHUB_KAMU diganti nama akunmu -->
   <img src="https://github-readme-stats.vercel.app/api?username=bayufrassetyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayufrassetyo&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
