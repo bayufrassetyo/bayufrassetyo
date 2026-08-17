@@ -40,6 +40,14 @@ My focus is building practical digital solutions that bridge aviation domain exp
 
 ---
 
+### 🎯 Current Focus & Exploration
+
+- 🔭 **Building:** Enhancing **AeroCheck AI** for complex maintenance log ingestion & multi-agent workflows.
+- 📚 **Learning:** Advanced Multi-Agent Orchestration, Cloud-Native Deployments, & Security Best Practices.
+- 💬 **Ask me about:** Aviation PPC, Strategic Data Management, Streamlit Apps, & Gemini API integration.
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -74,6 +82,18 @@ My focus is building practical digital solutions that bridge aviation domain exp
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+---
+
+### 🤝 Open for Collaboration
+
+<div align="center">
+  <p>I am actively exploring opportunities in <b>Software Development, Data Analytics, and AI Engineering</b>.</p>
+  
+  <a href="mailto:bayufrassetyo@gmail.com">
+    <img src="https://img.shields.io/badge/Open_for_Opportunities-Collaborate_or_Hire-38bdf8?style=for-the-badge&logo=rocket&logoColor=white" alt="Open for Opportunities" />
+  </a>
+</div>
 
 ---
 
